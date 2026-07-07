@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "luxonis-device-setup": {
+      "source": "luxonis/skills",
+      "sourceType": "github",
+      "skillPath": "skills/getting-started/luxonis-device-setup/SKILL.md",
+      "computedHash": "60cac61d23040de5a759781d4fdbea56bb935649847d6b572f66e259f3c0f148"
+    },
+    "luxonis-guide": {
+      "source": "luxonis/skills",
+      "sourceType": "github",
+      "skillPath": "skills/getting-started/luxonis-guide/SKILL.md",
+      "computedHash": "579c09711464c501dd624ee55b6a6ba88353404df4f3a03a3901718be1d70c9d"
+    },
+    "luxonis-troubleshoot": {
+      "source": "luxonis/skills",
+      "sourceType": "github",
+      "skillPath": "skills/support/luxonis-troubleshoot/SKILL.md",
+      "computedHash": "bad79005dacff8a5b6607204727ba1b903b64daa266b6f9cabe2ae76534b7199"
+    }
+  }
+}
